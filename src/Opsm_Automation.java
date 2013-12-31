@@ -16,7 +16,7 @@ import org.testng.annotations.Test;
 	 public class Opsm_Automation {
 	 WebDriver driver;
 
-	 //added
+	 //added new method
 	 @BeforeMethod
 	 public void setUp()
 	 {
